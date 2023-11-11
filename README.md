@@ -1,4 +1,3 @@
-# 👋👇
 # Création et exploration Base de Données Immobilier avec SQL 🏡
 
 👨‍🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.<br>
