@@ -26,5 +26,5 @@ Nous présentons ici la liste des questions demandées par l'agence et nos requ�
 ---
 
 👋 Merci de votre lecture !<br>
-✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à fthouraud@pm.me
+✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions via [mon Linkedin](https://www.linkedin.com/in/florian-thouraud)
 
