@@ -25,6 +25,37 @@ Nous présentons ici la liste des questions demandées par l'agence et nos requ�
 
 ---
 
-👋 Merci de votre lecture !<br>
+👋Vous pouvez accéder directement au code SQL [ici](https://github.com/florian-thouraud/Base-de-donnes-Immo-SQL/blob/main/Thouraud_Florian_4_Requ%C3%AAtes_SQL_avec_r%C3%A9sultats_112022.pdf)!<br>
 ✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions via [mon Linkedin](https://www.linkedin.com/in/florian-thouraud)
+<br>
 
+<br>
+
+## ENGLISH VERSION : Real Estate Database creation and exploration with SQL 🏡
+
+👨‍🎓 Project carried out as part of the OpenClassRooms "Data Analyst" diploma course.<br>
+🛠 Key words : **SQL, structured database modelling and exploration, UML diagram, relational schema, primary keys.**
+
+---
+
+The project in a nutshell :<br>
+<br>A (fictitious) estate agency would like to increase its added value by having easy access to certain information relevant to its business.
+
+For example, for the first half of 2020, it would like to know:
+- What is the list of the 10 most expensive French departments per square metre?
+- What is the average price of a house in the Paris region?
+- What is the sales growth rate between the first and second half of 2020?
+- Etc
+
+Using free public data from French government websites, covering all property transactions in the first half of 2020, we are modelling a database to help estate agents stand out from the crowd.
+The files deposited in this repository show the steps we have taken to respond to the request:
+- First, we carried out conceptual modelling using a UML class diagram.
+- Then we carried out logical modelling in the form of a relational schema.
+- Finally, we perform the physical modelling in SQL language.
+We then run queries via the SQLiteStudio DBMS to query the final database.
+
+Here we present the list of questions requested by the agency and our corresponding SQL queries.
+---
+
+👋 You can access the SQL code directly [here](https://github.com/florian-thouraud/Base-de-donnes-Immo-SQL/blob/main/Thouraud_Florian_4_Requ%C3%AAtes_SQL_avec_r%C3%A9sultats_112022.pdf)<br>
+✏️ Please if you have any question or remark, feel free to contact me via [my Linkedin](https://www.linkedin.com/in/florian-thouraud)
