@@ -1,4 +1,8 @@
 # Création et exploration Base de Données Immobilier avec SQL 🏡
+<br>
+
+**English version below**
+<br>
 
 👨‍🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.<br>
 🛠 Mots clés : **SQL, SQLiteStudio, modélisation et exploration base de données structurées, diagramme UML, schéma relationnel, clés primaires.**
@@ -25,7 +29,7 @@ Nous présentons ici la liste des questions demandées par l'agence et nos requ�
 
 ---
 
-👋Vous pouvez accéder directement au code SQL [ici](https://github.com/florian-thouraud/Base-de-donnes-Immo-SQL/blob/main/Thouraud_Florian_4_Requ%C3%AAtes_SQL_avec_r%C3%A9sultats_112022.pdf)!<br>
+👋Vous pouvez accéder directement au code SQL [ici](https://github.com/florian-thouraud/Base-de-donnes-Immo-SQL/blob/main/Thouraud_Florian_4_Requ%C3%AAtes_SQL_avec_r%C3%A9sultats_112022.pdf)<br>
 ✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions via [mon Linkedin](https://www.linkedin.com/in/florian-thouraud)
 <br>
 
@@ -54,7 +58,6 @@ The files deposited in this repository show the steps we have taken to respond t
 - Finally, we perform the physical modelling in SQL language.
 We then run queries via the SQLiteStudio DBMS to query the final database.
 
-Here we present the list of questions requested by the agency and our corresponding SQL queries.
 ---
 
 👋 You can access the SQL code directly [here](https://github.com/florian-thouraud/Base-de-donnes-Immo-SQL/blob/main/Thouraud_Florian_4_Requ%C3%AAtes_SQL_avec_r%C3%A9sultats_112022.pdf)<br>
